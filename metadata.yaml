@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30176#O-Carrasco-de-Victor-Hugo-Jos--Alves
 gutenberg_issued: '2009-10-04'
 gutenberg_type: Text
 identifiers:
